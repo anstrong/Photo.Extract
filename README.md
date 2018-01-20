@@ -14,7 +14,7 @@ Instagram photo downloader
 ### Add-ons
   * Option to pick date range instead of specific photos
   * Hashtag filter
-	* Tagged filter?
+  * Tagged filter?
   * <b>GUI ideas</b>
     - url
     - Select exact photos
