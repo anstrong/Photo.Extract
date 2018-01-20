@@ -7,7 +7,7 @@ Instagram photo downloader
     - number of photos (from top of feed)
     - *which frame* *
   * Loop through home page JS
-  * Find each image's largest url
+  * Find each image's largest version's url
   * Download... probably to Dropbox folder
   * *Have IFTTT send new photos via email to frame* *
 	
