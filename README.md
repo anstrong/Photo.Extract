@@ -15,9 +15,10 @@ Instagram photo downloader
   * Option to pick date range instead of specific photos
   * Hashtag filter
 	* Tagged filter?
-  * **GUI ideas**
-  - Select exact photos
-	- Thumbnail grid?
-	- Folder selector thingie
+  * <b>GUI ideas</b>
+    - url
+    - Select exact photos
+    - Thumbnail grid?
+    - Folder selector thingie
 
 *For personal application to Nixplay frames
