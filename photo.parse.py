@@ -5,6 +5,7 @@ import subprocess
 import re
 
 ####################################### FUNCTIONS ###############################################
+
 def read_html(address):
 	# Open the page
 	url = urllib.Request(address, headers={'User-Agent': 'Mozilla/5.0'})
@@ -14,6 +15,7 @@ def read_html(address):
 	return html
 
 ########################################## LOGIC ###############################################
+
 #address = 'http://www.instagram.com/pretty._landscapes'
 #address = 'https://www.instagram.com/laurkendall6/'
 address = 'https://www.instagram.com/puppysphere/'
